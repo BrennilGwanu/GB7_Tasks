@@ -1,0 +1,15 @@
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.csproj.AssemblyReference.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.AssemblyInfoInputs.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.AssemblyInfo.cs
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.csproj.CoreCompileInputs.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\bin\Debug\net7.0\TaskWithStar.exe
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\bin\Debug\net7.0\TaskWithStar.deps.json
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\bin\Debug\net7.0\TaskWithStar.runtimeconfig.json
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\bin\Debug\net7.0\TaskWithStar.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\bin\Debug\net7.0\TaskWithStar.pdb
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\refint\TaskWithStar.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.pdb
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\TaskWithStar.genruntimeconfig.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar7\TaskWithStar\obj\Debug\net7.0\ref\TaskWithStar.dll
